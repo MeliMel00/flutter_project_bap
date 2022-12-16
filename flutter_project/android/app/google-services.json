@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "925390832297",
+    "project_id": "dorsetproject-ef457",
+    "storage_bucket": "dorsetproject-ef457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925390832297:android:2c30057def86fd27165fb8",
+        "android_client_info": {
+          "package_name": "com.example.dorset_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925390832297-mj3c41k2e94ne1euhb62cp4u54c4tas9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjqE3fEKi44lxwh4U2093OtJ3IpJfP9h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925390832297-mj3c41k2e94ne1euhb62cp4u54c4tas9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925390832297-2flqn4h280lepm50omqvalpjvsebgq28.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dorsetFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925390832297:android:24ad7310e438526a165fb8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925390832297-mj3c41k2e94ne1euhb62cp4u54c4tas9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjqE3fEKi44lxwh4U2093OtJ3IpJfP9h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925390832297-mj3c41k2e94ne1euhb62cp4u54c4tas9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925390832297-2flqn4h280lepm50omqvalpjvsebgq28.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dorsetFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
